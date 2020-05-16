@@ -1,3 +1,5 @@
+#coded by: salism3 / romakelapa
+
 from knn import *
 import math
 import csv
